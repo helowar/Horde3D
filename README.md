@@ -1,5 +1,7 @@
 # Horde3D
 
+Horde3D——基于C++编写的3D渲染引擎 http://www.csdn.net/article/2015-06-17/2824991-Horde3D
+
 Horde3D is a 3D rendering engine written in C++ with an effort being as lightweight and conceptually clean as possible.
 
 Horde3D requires a fully OpenGL 2.0 compatible graphics card. In terms of DirectX that means a card supporting at least Shader Model 2.0 or higher.
